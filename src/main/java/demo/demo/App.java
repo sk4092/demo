@@ -12,5 +12,8 @@ public class App
 
         System.out.println( "Hello Abhijeet" );
         System.out.println("jai maharashtra");
+        System.out.println( "Hello Abhijeet" );
+        System.out.println("jai maharashtra");
+        
     }
 }
